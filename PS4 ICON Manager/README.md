@@ -5,8 +5,8 @@ Esta herramienta te permite cambiar el icono de los juegos en el menú de tu con
 
 Se conecta directamente a tu consola por FTP y ajusta la imagen automáticamente. ¡Adiós al icono aburrido!
 
-[![Ver Tutorial en YouTube](https://img.youtube.com/vi/GO8rDBE8VLM/0.jpg)](https://youtu.be/GO8rDBE8VLM?si=YpI0_3H3Hymi4I_4)
-> 🎥 **[Haz clic aquí para ver cómo funciona en 1 minuto](https://youtu.be/GO8rDBE8VLM?si=YpI0_3H3Hymi4I_4)**
+[![Ver Tutorial en YouTube](https://img.youtube.com/vi/BD-LTYOJEHg/0.jpg)](https://youtu.be/BD-LTYOJEHg?si=YpI0_3H3Hymi4I_4)
+> 🎥 **[Haz clic aquí para ver cómo funciona en 1 minuto](https://youtu.be/BD-LTYOJEHg?si=YpI0_3H3Hymi4I_4)**
 
 ---
 
