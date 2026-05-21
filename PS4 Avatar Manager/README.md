@@ -54,4 +54,4 @@ Herramienta desarrollada por **Videogames SCZ** para facilitar la personalizaci�
 Aunque el proceso es muy seguro, siempre recomendamos no tocar archivos del sistema manualmente si no sabes lo que haces. ¡Deja que la app lo haga por ti!
 
 ---
-*Hecho con 🥚 y ❤️ por Videogames SCZ*
+*Hecho con ❤️ por Videogames SCZ*
