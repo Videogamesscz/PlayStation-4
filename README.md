@@ -14,7 +14,7 @@ Aquí encontrarás todas las utilidades que enseño en mi canal de YouTube para 
 
 | Herramienta | Descripción | Enlace |
 | :--- | :--- | :---: |
-| **PS4 Avatar Manager** | 🎨 Personaliza el avatar de tu usuario de PS4 con nuevas imágenes. | [Ir a la carpeta](./VideoIcon%20Game%20Changer) |
+| **PS4 Avatar Manager** | 🎨 Personaliza el avatar de tu usuario de PS4 con nuevas imágenes. | [Ir a la carpeta](./PS4%20Avatar%20Manager) |
 | **PS4 ICON Manager** | 🖼️ Cambia los iconos de tus juegos en el menú fácilmente. | [Ir a la carpeta](./VideoIcon%20Game%20Changer) |
 
 ---
