@@ -1,4 +1,4 @@
-# 🎨 PS4 ICON Manager (Cambiador de icono y fondo de tus juegos)
+# 🖼️ PS4 ICON Manager (Cambiador de icono y fondo de tus juegos)
 
 ¡Dale un toque único a tu PS4!
 Esta herramienta te permite cambiar el icono de los juegos en el menú de tu consola por cualquier imagen que tengas en tu PC, de forma instantánea y sin riesgos. Además también el wallpaper de inicio...
